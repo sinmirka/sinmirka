@@ -1,6 +1,6 @@
 ## hey there, i'm sinmirka 👋
 
-<img width="1080" height="1080" alt="изображение" src="https://github.com/user-attachments/assets/50f692f7-5d98-4354-8c28-359f0c0ab67a" />
+![flantistic-gif-version](https://github.com/user-attachments/assets/ae9c8cb1-be69-4520-87c5-b33d92b91f29)
 
 
 i build things and try to build them well  
