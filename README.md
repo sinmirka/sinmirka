@@ -1,5 +1,8 @@
 ## hey there, i'm sinmirka 👋
 
+<img width="1080" height="1080" alt="изображение" src="https://github.com/user-attachments/assets/50f692f7-5d98-4354-8c28-359f0c0ab67a" />
+
+
 i build things and try to build them well  
 
 high school dev on the way to becoming actually good  
