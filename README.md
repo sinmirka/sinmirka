@@ -1,16 +1,18 @@
-## Hi there 👋
+## hey there, i'm sinmirka 👋
 
-<!--
-**sinmirka/sinmirka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i build things and try to build them well  
 
-Here are some ideas to get you started:
+high school dev on the way to becoming actually good  
+learning by doing real projects and fixing my own mess  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### stack
+python • git • SQL • whatever gets the job done
+
+### currently
+building things  
+breaking them  
+fixing them  
+repeat
+
+---
+*"one more commit before sleep"*````
