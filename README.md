@@ -13,10 +13,8 @@ learning by doing projects and fixing my own mess
 python • git • SQL • whatever gets the job done
 
 ### currently
-building things  
-breaking them  
-fixing them  
-repeat
+making a project called "SinCleaner"
+you can see it here https://github.com/sinmirka/sin-cleaner
 
 ---
 *"one more commit before sleep"*
