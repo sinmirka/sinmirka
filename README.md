@@ -17,4 +17,3 @@ making a project called "SinCleaner"
 you can see it here https://github.com/sinmirka/sin-cleaner  
 
 ---
-*"one more commit before sleep"*
