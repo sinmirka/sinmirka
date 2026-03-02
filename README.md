@@ -17,5 +17,6 @@ python • git • SQL • whatever gets the job done
 ### currently
 making a project called "SinCleaner"  
 you can see it here https://github.com/sinmirka/sin-cleaner  
+v2.0 release!! go look plz!
 
 ---
