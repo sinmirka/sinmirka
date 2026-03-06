@@ -15,8 +15,8 @@ learning by doing pet-projects and fixing my own mess
 python • git • SQL • whatever gets the job done
 
 ### currently
-making a project called "SinCleaner"  
-you can see it here https://github.com/sinmirka/sin-cleaner  
+making a project called "SMToolkit"  
+you can see it here https://github.com/sinmirka/sinmir-toolkit  
 v2.0 release!! go look plz!
 now learning APIs
 
