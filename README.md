@@ -18,6 +18,7 @@ python • git • SQL • whatever gets the job done
 making a project called "SMToolkit"  
 you can see it here https://github.com/sinmirka/sinmir-toolkit  
 v2.0 release!! go look plz!
-now learning APIs
+
+now working on telegram bots stuff
 
 ---
