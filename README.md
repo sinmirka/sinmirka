@@ -15,8 +15,8 @@ learning by doing pet-projects and fixing my own mess
 python • git • SQL • whatever gets the job done
 
 ### currently
-making a project called "SMToolkit"  
-you can see it here https://github.com/sinmirka/sinmir-toolkit  
+making a project called "SinTweaker"  
+you can see it here https://github.com/sinmirka/SinTweaker  
 v2.0 release!! go look plz!
 
 now working on telegram bots stuff
