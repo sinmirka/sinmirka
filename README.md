@@ -15,10 +15,11 @@ learning by doing pet-projects and fixing my own mess
 python • git • SQL • whatever gets the job done
 
 ### currently
-making a project called "SinTweaker"  
-you can see it here https://github.com/sinmirka/SinTweaker  
-v2.0 release!! go look plz!
+SinTweaker v2 release!! https://github.com/sinmirka/SinTweaker check it out
 
-now working on telegram bots stuff
+now working on a "SinGrabber CLI"
+<p align="center">
+  <img width="768" height="204" alt="изображение" src="https://github.com/user-attachments/assets/4eb93110-8437-4a7d-8c1c-5393fa3f524c" />
+</p>
 
 ---
