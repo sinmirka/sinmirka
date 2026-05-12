@@ -9,6 +9,7 @@
 i build things and try to build them well  
 
 high school dev
+
 learning by doing pet-projects and fixing my own mess
 
 also trying to use brain but its hard because i dont have one
