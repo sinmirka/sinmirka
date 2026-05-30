@@ -16,7 +16,7 @@ learning by doing pet-projects and fixing my own mess
 python • git • SQL • whatever gets the job done
 
 ### currently
-SinTweaker v2 release!! https://github.com/sinmirka/SinTweaker check it out
+SinImager v2 release!! https://github.com/sinmirka/SinTweaker check it out
 
 ---
 now working on a "SinGrabber CLI"
