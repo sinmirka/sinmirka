@@ -13,7 +13,7 @@ high school dev
 learning by doing pet-projects and fixing my own mess
 
 ### stack
-python • git • SQL • whatever gets the job done
+python • git • whatever gets the job done
 
 ### currently
 SinImager v2 release!! https://github.com/sinmirka/SinTweaker check it out
