@@ -16,12 +16,4 @@ learning by doing pet-projects and fixing my own mess
 python • git • whatever gets the job done
 
 ### currently
-SinImager v2 release!! https://github.com/sinmirka/SinTweaker check it out
-
----
-now working on a "SinGrabber CLI"
-<p align="center">
-  <img width="768" height="204" alt="изображение" src="https://github.com/user-attachments/assets/4eb93110-8437-4a7d-8c1c-5393fa3f524c" />
-</p>
-
----
+building private project
